@@ -1,0 +1,14 @@
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\DAL.dll.config
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\DAL.dll
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\DAL.pdb
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\EntityFramework.dll
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\EntityFramework.xml
+F:\DOT NET\LABTASK_FINAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.dll
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.pdb
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.Migrations.initDb.resources
+F:\DOT NET\LABTASK_FINAL\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
