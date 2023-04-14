@@ -13,5 +13,7 @@ namespace DAL
         public DbSet<Project> Projects { get; set; }
         public DbSet<Member> Members { get; set; }
 
+        //fahim is good fboy
+
     }
 }
